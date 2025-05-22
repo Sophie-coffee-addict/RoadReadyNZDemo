@@ -1,6 +1,8 @@
 # RoadReadyNZDemo
 Since the project repo is private, this repo provides some demo videos if you're interested to have a look : )
 
+This is my last group project for the internship, working with RoadReadyNZ team from a group of teenagers from Sacred Heart College.
+
 Demo of the entire project:
 
 https://github.com/user-attachments/assets/a4f4ad02-33c1-4a06-9951-5655746a8328
